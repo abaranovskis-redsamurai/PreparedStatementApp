@@ -6,7 +6,7 @@
         <Contents>thin</Contents>
       </StringRefAddr>
       <StringRefAddr addrType="hostname">
-        <Contents>138.68.79.219</Contents>
+        <Contents>127.0.01</Contents>
       </StringRefAddr>
       <SecureRefAddr addrType="password"/>
       <StringRefAddr addrType="subtype">
@@ -16,7 +16,7 @@
         <Contents>1521</Contents>
       </StringRefAddr>
       <StringRefAddr addrType="serviceName">
-        <Contents>ORCLPDB1.localdomain</Contents>
+        <Contents>XE</Contents>
       </StringRefAddr>
       <StringRefAddr addrType="user">
         <Contents>hr</Contents>
